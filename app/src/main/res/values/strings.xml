@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App30Days</string>
+
+    <string name="_30_days_of_recipes_text">30 Days Of Photography</string>
+
+    <string name="day_text">Day %1$s:</string>
+
+    <string name="k1_title">Gelap Terang</string>
+    <string name="k1_desc">Tidak semua hal akan terlihat positif di mata semua orang. akan ada beberapa orang yang memandang negatif dari apa yang kita lakukan.</string>
+    <string name="k1_ref">Date: 2 Agustus 2025</string>
+
+    <string name="k2_title">Cahaya Harapan</string>
+    <string name="k2_desc">Semua akan ada masanya. tidak ada kata selesai jika belum menemukan titik terang.</string>
+    <string name="k2_ref">Date: 2 Agustus 2025</string>
+
+    <string name="k3_title">Pandangan</string>
+    <string name="k3_desc">Keteraturan akan terasa jika kamu memiliki pandangan.</string>
+    <string name="k3_ref">Date: 2 Agustus 2025</string>
+
+</resources>
